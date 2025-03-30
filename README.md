@@ -4,7 +4,7 @@ AGRI_FARM Crop Monitoring Project
 Overview
 This project focuses on crop monitoring using remote sensing data, specifically Landsat 8 satellite imagery. The main purpose is to calculate and visualize the Normalized Difference Vegetation Index (NDVI), which is a key indicator of plant health and vegetation density.
 
-Features
+##Features
 Loading and processing Landsat 8 satellite imagery
 
 Calculation of NDVI (Normalized Difference Vegetation Index)
@@ -13,7 +13,7 @@ Visualization of NDVI maps with appropriate color schemes
 
 Handling of geospatial data using rasterio library
 
-Requirements
+##Requirements
 The project requires the following Python libraries:
 
 numpy
